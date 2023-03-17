@@ -9,3 +9,7 @@ void functio0() {
 	} else {
 	}
 }
+
+void sFaterTest() {
+	//This is test code.
+}
