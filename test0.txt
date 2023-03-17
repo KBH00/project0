@@ -10,3 +10,7 @@ void functio0() {
 		test from GURI.
 	}
 }
+
+void sFaterTest() {
+	//This is test code.
+}
