@@ -6,6 +6,7 @@ void functio0() {
 
 if(true) {
 	if(true) {
+		i add this line second.
 		fdsafdasfas:
 	} else {
 		test from GURI.
