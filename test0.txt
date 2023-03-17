@@ -1,13 +1,14 @@
 #test
 
-
-
 void functio0() {
     hello
 }
 
 if(true) {
+	if(true) {
+		fdsafdasfas:
 	} else {
+		test from GURI.
 	}
 }
 
