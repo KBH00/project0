@@ -1,11 +1,12 @@
 #test
 
-void fuction() {
-}
 
 
 void functio0() {
-	if(true) {
+    hello
+}
+
+if(true) {
 	} else {
 	}
 }
