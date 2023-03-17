@@ -10,3 +10,7 @@ if(true) {
 	} else {
 	}
 }
+
+void sFaterTest() {
+	//This is test code.
+}
