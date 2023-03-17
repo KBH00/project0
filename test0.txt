@@ -6,6 +6,7 @@ void fuction() {
 
 void functio0() {
 	if(true) {
+		fdsafdasfas:
 	} else {
 	}
 }
