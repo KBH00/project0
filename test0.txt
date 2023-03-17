@@ -7,5 +7,6 @@ void fuction() {
 void functio0() {
 	if(true) {
 	} else {
+		test from GURI.
 	}
 }
