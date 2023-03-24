@@ -7,7 +7,7 @@ int main(int argc, char **argv) {
 	cv::Mat img = cv::imread("../IMG_4113.JPG", 1);
 	cv::Mat imgResize;
 
-	int rate = 10;
+	int rate = 5;
 
 	cv::resize(img, imgResize, cv::Size(img.cols/rate, img.rows/rate));
 
