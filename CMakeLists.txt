@@ -73,6 +73,9 @@ INCLUDE_DIRECTORIES(
 )
 
 ## ----- Find dependencies -----
+
+find_package(OpenCV REQUIRED)
+
 ## Aruco
 ##find_package(aruco REQUIRED)
 #
@@ -116,6 +119,6 @@ ADD_EXECUTABLE(test0
 	./src/test0.cpp
 )
 
-#TARGET_LINK_LIBRARIES(testFrame
-#	${OpenCV_LIBRARIES}
-#)
+TARGET_LINK_LIBRARIES(test0
+	${OpenCV_LIBRARIES}
+)
